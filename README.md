@@ -32,4 +32,4 @@ Media: 3D Render, Simulation, Computer Graphic
 
 Software: Processing, Java, Blender
 
-Date: Feb 2016
+Date: February 2016
