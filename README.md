@@ -8,7 +8,7 @@ That is, until they break.
 
 Unfortunately, many systems that we come to rely on are fragile and error-prone. An entire computer system can crash at the fault of a single component. More commonly, errors arise out of the opaque, often mysterious workings of code. Brittle Bits seeks to visualize software misbehavior propagating across biologically-inspired systems.
 
-[Read the Writeup](Willy Wu 04.pdf)
+[Read the Writeup](BrittleBits.pdf)
 
 ![](BrittleBits2.jpg)
 
