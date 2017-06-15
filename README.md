@@ -30,6 +30,6 @@ Learning Focus: Emergent Systems, Fragile Programming, Genetic Algorithms, Simul
 
 Media: 3D Render, Simulation, Computer Graphic
 
-Software: Processing, Java, Blender
+Software: Processing, Java, Blender, Adobe InDesign
 
 Date: February 2016
