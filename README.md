@@ -1,7 +1,5 @@
 # Brittle Bits
 
-![](BrittleBits1.jpg)
-
 Enveloped by the intricate electronic fabric of modern life, we often take for granted the myriad of digital systems that keep us safe, informed, and connected. From fire alarms to internet servers to the national power grid, we trust that these nearly-invisible systems are robust enough to uphold our civic infrastructure.
 
 That is, until they break.
@@ -9,6 +7,8 @@ That is, until they break.
 Unfortunately, many systems that we come to rely on are fragile and error-prone. An entire computer system can crash at the fault of a single component. More commonly, errors arise out of the opaque, often mysterious workings of code. Brittle Bits seeks to visualize software misbehavior propagating across biologically-inspired systems.
 
 [Read the Writeup](BrittleBits.pdf)
+
+![](BrittleBits1.jpg)
 
 ![](BrittleBits2.jpg)
 
